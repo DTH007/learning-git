@@ -9,3 +9,7 @@ print("Hp")
 print("divye, hi")
 print("OK")
 print("OK")
+
+
+for i in range(10):
+    print(i)
